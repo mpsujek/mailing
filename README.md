@@ -1,0 +1,2 @@
+# mailing
+Workout mailing layout
